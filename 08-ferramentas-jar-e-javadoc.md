@@ -119,7 +119,7 @@ do projeto e versão, como `caelum-banco-1.0.jar`.
 Como saberemos o que cada classe tem no Java? Quais são seus métodos, o que eles fazem?
 
 E, a partir da internet, você pode acessar por meio do link:
-http://download.java.net/jdk8/docs/api/index.html
+https://docs.oracle.com/javase/8/docs/api/
 
 
 No site da Oracle, você pode (e deve) baixar a documentação das bibliotecas do Java, frequentemente
