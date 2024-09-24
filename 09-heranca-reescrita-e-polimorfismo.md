@@ -497,21 +497,6 @@ antigo. Isso é feito por meio da palavra-chave `super.método()`. Algo parecido
 construtores das classes, o quê?
 
 
-> **Mais sobre o mau uso da herança**
->
-> No blog da Caelum, existe um artigo interessante abordando esse tópico:
->
-> http://blog.caelum.com.br/2006/10/14/como-nao-aprender-orientacao-a-objetos-heranca/
->
->
-> James Gosling, um dos criadores do Java, é um crítico do mau uso da herança.
-> Nesta entrevista, ele discute a possibilidade de se utilizar apenas interfaces e composição,
-> eliminando a necessidade da herança:
->
-> http://www.artima.com/intv/gosling3P.html
-
-
-
 
 ## Exercícios: herança e polimorfismo
 1. Teremos mais de um tipo de conta no nosso sistema, então precisaremos de uma nova tela para cadastrar os diferentes tipos de conta. Essa tela já está pronta, e, para utilizá-la, só precisamos alterar a classe que estamos chamando no método `main()` no `TestaContas.java`:
