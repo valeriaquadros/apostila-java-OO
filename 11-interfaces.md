@@ -607,7 +607,4 @@ has problems._
 
 http://www.artima.com/intv/gosling3P.html
 
-No blog da Caelum, há também um post sobre o assunto:
-http://blog.caelum.com.br/2006/10/14/como-nao-aprender-orientacao-a-objetos-heranca/
-
 
