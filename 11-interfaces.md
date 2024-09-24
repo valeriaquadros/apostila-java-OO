@@ -383,9 +383,6 @@ ou MySQL.
 Apesar do `java.sql.Connection` não trabalhar bem assim, a ideia é muito similar. Porém, as conexões
 vêm de uma _factory_ chamada `DriverManager`.
 
-Conexão a banco de dados está fora do escopo desse treinamento, mas é um dos primeiros tópicos
-abordados no curso FJ-21 juntamente com DAO.
-
 > **Um pouco mais...**
 >
 >
